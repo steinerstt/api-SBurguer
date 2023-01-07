@@ -1,6 +1,6 @@
 # api-SBurguer
 
-![GitHub](https://img.shields.io/github/license/steinerstt/api-sburguer?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/steinerstt/api-SBurguer?style=for-the-badge)
 
 <br>
 
@@ -39,7 +39,7 @@
 
 # 📋 Documentação
 
-## 🔰 Base url:
+## 🔰 Base url: https://api-sburguer.onrender.com
 
 ---
 
