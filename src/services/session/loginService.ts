@@ -16,8 +16,6 @@ export const loginService = async (dataLogin: iLoginRequest) => {
     .where("email = :email", { email: dataLogin.email })
     .getOne();
 
-  console.log(user);
-
   if (!user) {
     throw new AppError(401, "Email or password invalid");
   }
